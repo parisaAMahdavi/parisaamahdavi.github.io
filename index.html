@@ -388,7 +388,6 @@
             <span>May 2016 - Jan 2017 | Mashhad, Iran</span>
           </div>
         </div>
-        
 
       </div>
     </section>
@@ -402,13 +401,14 @@
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
-                <img alt="music streaming app" src="/assets/img/project-music-player.png" style="height: 100%; width: 100%" class="activator" />
+                <img alt="Predict real Disaster tweets" src="/assets/img/project-music-player.png" style="height: 100%; width: 100%" class="activator" />
               </div>
               <div class="card-content">
-                <span class="card-title activator teal-text hoverline">Music Player Web-App<i
+                <span class="card-title activator teal-text hoverline">Predict real Disaster tweets (Kaggle competition)<i
                     class="mdi-navigation-more-vert right"></i></span>
                 <p>
-                  A music streaming web app based on Django
+                  An LSTM-based classification model with applying attention mechanism,
+                  with 80% accuracy for predicting real disaster tweets from fake
                 </p>
               </div>
               <div class="card-reveal">
@@ -417,11 +417,13 @@
                 <span class="card-title grey-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
-                  <li><b>Tools:</b> Django, HTML, CSS, Bootstrap, SQLite, AWS S3, Heroku</li>
-                  <li>Register/login to the web app(with OAuth-based Google Sign-In).</li>
-                  <li>Search and filter songs based on language and singer.</li>
-                  <li>Create multiple playlists and add/remove songs to/from playlist.</li>
-                  <li>Scroll through recently played/viewed songs.</li>
+                  <p>Developed an BiLSTM model to learn the temporal dependencies in the input data
+                    and combined it with attention mechanism to focus on the most relevant parts of the input data.</p>
+                  <li>Used Python RegEx module for cleaning data.</li>
+                  <li>Analyzed data (text statistics, Explore Ngram, …) using Sklearn.</li>
+                  <li>Used pre-trained Glove algorithm for obtaining vector representations for text data</li>
+                  <li>Trained and evaluated model in the Keras framework and achieved 80% accuracy.</li>
+                  
 
 
                 </ul>
