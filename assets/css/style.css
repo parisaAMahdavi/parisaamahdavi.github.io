@@ -573,6 +573,12 @@ small {
   background-color: #008073 !important;
 }
 
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* .teal {
   background-color: #00695c !important;
 } */
