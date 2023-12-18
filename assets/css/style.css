@@ -580,7 +580,6 @@ small {
 .logo {
   display: flex;
   align-items: center;
-  max-width: 2%;
 }
 .logo-size{
   width: 50px; 
