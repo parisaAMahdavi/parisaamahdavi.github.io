@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #67313b;;
+  color: #006880;;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -335,7 +335,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: #95afca;
+  color: #006880;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -350,7 +350,7 @@ h3 {
 } */
 
 #intro.section .container *:not(span) {
-  font-weight: 300;
+  font-weight: 100;
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
@@ -363,6 +363,33 @@ h3 {
 
 #intro.section .teal {
   padding: 0 10px;
+}
+
+#about.section {
+  background: #bdc0c7;
+  position: relative;
+}
+#experience.section {
+  background: #585858;
+  position: relative;
+}
+
+#projects.section {
+  background: #bdc0c7;
+  position: relative;
+}
+
+#skills.section {
+  background: #585858;
+  position: relative;
+}
+#education.section {
+  background: #bdc0c7;
+  position: relative;
+}
+#research.section {
+  background: #585858;
+  position: relative;
 }
 
 .overlay {
