@@ -499,6 +499,7 @@ h3 {
 
 .card .card-content .card-title {
   line-height: 2.5rem;
+  font-weight: 300;
 }
 
 .card i.right {
