@@ -629,6 +629,9 @@ small {
   #experience .container {
     width: 860px;
   }
+  #intro.section{
+    height: 70vh
+  }
 }
 
 @media (max-width: 1360px) {
@@ -637,11 +640,18 @@ small {
     line-height: 200%;
     margin-left: 20px;
   }
+  #intro.section{
+    height: 100vh
+  }
+
 }
 
 @media (max-width: 1160px) {
   .card ul li {
     line-height: 150%;
+  }
+  #intro.section{
+    height: 100vh
   }
 }
 
@@ -704,6 +714,7 @@ small {
   }
   section#intro {
     margin-bottom: -64px;
+    height: 100vh
   }
   .card .role {
     position: relative;
@@ -749,5 +760,6 @@ small {
   }
   #intro.section {
     background-position-x: 30%;
+    height: 100vh
   }
 }
