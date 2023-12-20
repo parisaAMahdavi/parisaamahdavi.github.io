@@ -627,7 +627,7 @@ small {
 
 @media (min-width: 1200px) {
   #experience .container {
-    width: 860px;
+    width: 95%;
   }
   #intro.section{
     height: 70vh
