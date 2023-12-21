@@ -593,9 +593,9 @@ a.hoverline:hover {
   top: 2px;
 }
 
-small {
+/* small {
   display: none;
-}
+} */
 .shadow{
   text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
 }
