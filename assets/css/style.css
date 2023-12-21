@@ -499,7 +499,8 @@ h3 {
 
 .card .card-content .card-title {
   /* line-height: 2.5rem; */
-  font-weight: 300;
+  font-weight: 500;
+  color: #006880;
 }
 
 .card i.right {
@@ -507,8 +508,10 @@ h3 {
 }
 
 .border-card-action {
-  border-top: none!important;
-}
+    border-top: none!important;
+    padding: 10px !important;
+    position: relative !important;
+  }
 
 a.hoverline {
   border-bottom: 3px solid transparent !important;
