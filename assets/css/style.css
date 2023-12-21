@@ -498,12 +498,16 @@ h3 {
 }
 
 .card .card-content .card-title {
-  line-height: 2.5rem;
+  /* line-height: 2.5rem; */
   font-weight: 300;
 }
 
 .card i.right {
   margin-left: 10px;
+}
+
+.border-card-action {
+  border-top: none!important;;
 }
 
 a.hoverline {
@@ -713,7 +717,7 @@ small {
   }
   h3, .container {
     position: relative;
-    top: 64px;
+    /* top: 64px; */
   }
   section#intro {
     margin-bottom: -64px;
