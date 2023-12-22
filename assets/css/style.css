@@ -507,7 +507,7 @@ h3 {
   margin-left: 3px;
 }
 
-.card.medium.card-content{
+.card.medium .card-content{
   height: 182px;
 }
 .card.medium{
