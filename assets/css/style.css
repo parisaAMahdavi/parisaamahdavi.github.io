@@ -504,7 +504,14 @@ h3 {
 }
 
 .card i.right {
-  margin-left: 10px;
+  margin-left: 3px;
+}
+
+.card.medium.card-content{
+  height: 182px;
+}
+.card.medium{
+  height: 435px;
 }
 
 .border-card-action {
