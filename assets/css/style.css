@@ -386,7 +386,7 @@ h3 {
   background: #bdc0c7;
   position: relative;
 }
-#research.section {
+#researsh.section {
   background: #585858;
   position: relative;
 }
@@ -647,7 +647,10 @@ a.hoverline:hover {
     width: 95%;
   }
   #intro.section{
-    height: 70vh
+    height: 70vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
   }
 }
 
