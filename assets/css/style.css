@@ -374,28 +374,64 @@ h3 {
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
   background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 #experience.section {
-  background: #585858;
+  background: #b8c4cd;
+  background-repeat: repeat;
+  background-image: none;
+  background-size: auto;
   position: relative;
+  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 
 #projects.section {
-  background: #bdc0c7;
+  background: #b8c4cd;
+  background-repeat: repeat;
+  background-image: none;
+  background-size: auto;
   position: relative;
+  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 
 #skills.section {
-  background: #585858;
+  background: #b8c4cd;
+  background-repeat: repeat;
+  background-image: none;
+  background-size: auto;
   position: relative;
+  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 #education.section {
-  background: #bdc0c7;
+  background: #b8c4cd;
+  background-repeat: repeat;
+  background-image: none;
+  background-size: auto;
   position: relative;
+  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 #researsh.section {
-  background: #585858;
+  background: #b8c4cd;
+  background-repeat: repeat;
+  background-image: none;
+  background-size: auto;
   position: relative;
+  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
 }
 
 .overlay {
