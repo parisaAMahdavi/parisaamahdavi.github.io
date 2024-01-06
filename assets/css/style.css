@@ -329,9 +329,12 @@ h3 {
 } */
 
 #intro.section {
-  background: #535353 repeat;
+  background-color: #000;
   position: relative;
   background-image: url('/assets/img/ml.jpg');
+  opacity: 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #intro.section .container {
@@ -368,6 +371,9 @@ h3 {
 #about.section {
   background: #bdc0c7;
   position: relative;
+  background-image: url('/assets/img/ml2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 #experience.section {
   background: #585858;
@@ -627,7 +633,7 @@ a.hoverline:hover {
   background-color: #008073 !important;
 }
 .pantone{
-  background-color: #006880 !important;
+  background-color: #23496ade !important;
 }
 
 .logo {
