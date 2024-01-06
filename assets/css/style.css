@@ -331,6 +331,7 @@ h3 {
 #intro.section {
   background: #535353 repeat;
   position: relative;
+  background-image: url('/assets/img/ml.jpg');
 }
 
 #intro.section .container {
