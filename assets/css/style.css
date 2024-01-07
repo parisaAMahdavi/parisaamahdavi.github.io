@@ -84,15 +84,13 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #006880;;
-  border: 2px solid #fff;
-  font-weight: 600;
+  background: #8c5600d6;
+  color: #d1e8dd;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-  border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border-radius: 8px;
+  font-weight: 300 !important;
 }
 
 /* .readme:hover{
@@ -103,16 +101,14 @@
 .contactme {
   position: relative;
   padding: 11px 35px;
-  background: none;
-  color: #fff;
-  border: 2px solid #fff;
-  font-weight: 600;
+  background: #8c5600d6;
+  color: #d1e8dd;
+  font-weight: 300 !important;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
   margin-top: 1.5em;
-  border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border-radius: 8px;
 }
 
 .contactme:hover{
@@ -338,7 +334,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: #006880;
+  color: #d1e8dd;
   font-weight: 200;
   /* left: 0; */
   position: absolute;
