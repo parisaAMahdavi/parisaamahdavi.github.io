@@ -36,6 +36,11 @@
   /* padding: 10px; */
 }
 
+.flow-text {
+  line-height: 2.4rem;
+  font-size: 1rem;
+}
+
 .icon-btn {
   margin-left: auto;
   width: 50px;
@@ -369,7 +374,7 @@ h3 {
 }
 
 #about.section {
-  background: #19222f;
+  background: #192331;
   position: relative;
   background-image: url('/assets/img/bg6.jpg');
   background-size: cover;
@@ -387,7 +392,7 @@ h3 {
 }
 
 #projects.section {
-  background: #19222f;
+  background: #192331;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -404,7 +409,7 @@ h3 {
   background-blend-mode: color-burn;
 }
 #education.section {
-  background: #19222f;
+  background: #192331;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
