@@ -377,11 +377,6 @@ h3 {
   background-blend-mode: color-burn;
 }
 
-#about.section .container {
-  width: 55%;
-  margin-left: 40px;
-}
-
 #experience.section {
   background: #b8c4cd;
   position: relative;
