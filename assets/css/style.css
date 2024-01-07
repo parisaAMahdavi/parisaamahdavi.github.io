@@ -391,6 +391,10 @@ h3 {
   background-blend-mode: color-burn;
 }
 
+#experience.section .card{
+  background-color: #192331 !important;
+}
+
 #projects.section {
   background: #192331;
   position: relative;
