@@ -446,6 +446,7 @@ h3 {
 
 .card {
   margin-bottom: 60px;
+  border-radius: 10px;
 }
 
 .card .role {
@@ -694,9 +695,10 @@ a.hoverline:hover {
 
 @media (max-width: 1360px) {
   .card ul li {
-    font-size: 14px;
+    font-size: 12px;
     line-height: 200%;
     margin-left: 20px;
+    margin-bottom: 10px;
   }
   #intro.section{
     height: 100vh
