@@ -51,11 +51,13 @@
 }
 
 .github {
-  color: black;
+  color: #8c5600d6;
+  background-color: transparent;
 }
 
 .linkedin {
-  color: #0077b5;
+  color: #8c5600d6;
+  background-color: transparent;
 }
 
 .angellist {
@@ -120,7 +122,7 @@
 /* body-color */
 
 body {
-  color: rgb(69, 87, 93);
+  color: #d1e8dd;
   font-size: 18px;
 }
 .color-italic-text {
@@ -300,11 +302,13 @@ li.logo span {
 }
 
 h3 {
-  font-weight: 200;
-  margin-bottom: 60px;
+  font-weight: 400;
+  margin-bottom: 10px;
   margin-top: 0;
   padding: 30px 40px;
-  text-transform: uppercase;
+  font-size: 1rem;
+  color: #815b1e !important;
+  padding-bottom: 0;
 }
 
 .section {
@@ -372,6 +376,12 @@ h3 {
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
 }
+
+#about.section .container {
+  width: 55%;
+  margin-left: 40px;
+}
+
 #experience.section {
   background: #b8c4cd;
   position: relative;
@@ -775,6 +785,10 @@ a.hoverline:hover {
   }
   #intro.section .container *:not(span) {
     padding: 0;
+  }
+  #about.section .flow-text{
+    font-size: 1rem;
+    line-height: 1.7rem;
   }
   .card .card-content .card-title {
     font-size: 20px;
