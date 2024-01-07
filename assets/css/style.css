@@ -369,7 +369,7 @@ h3 {
 }
 
 #about.section {
-  background: #bdc0c7;
+  background: #19222f;
   position: relative;
   background-image: url('/assets/img/bg6.jpg');
   background-size: cover;
@@ -378,7 +378,7 @@ h3 {
 }
 
 #experience.section {
-  background: #b8c4cd;
+  background: #19222ff0;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -387,7 +387,7 @@ h3 {
 }
 
 #projects.section {
-  background: #b8c4cd;
+  background: #19222f;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -396,7 +396,7 @@ h3 {
 }
 
 #skills.section {
-  background: #b8c4cd;
+  background: #19222ff0;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -404,7 +404,7 @@ h3 {
   background-blend-mode: color-burn;
 }
 #education.section {
-  background: #b8c4cd;
+  background: #19222f;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -412,7 +412,7 @@ h3 {
   background-blend-mode: color-burn;
 }
 #researsh.section {
-  background: #b8c4cd;
+  background: #19222ff0;
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -726,7 +726,7 @@ a.hoverline:hover {
   }
   h3 {
     padding: 20px 30px;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
   }
   .container {
     margin: 0 auto;
