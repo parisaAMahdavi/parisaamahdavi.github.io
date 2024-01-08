@@ -474,6 +474,9 @@ h3 {
 
 .card .card-content p {
   padding: 5px 0 0;
+  margin-bottom: 20px;
+  color: #815c20;
+  font-weight: 700;
 }
 
 .card h5 {
@@ -542,7 +545,7 @@ h3 {
   color: #eaeef2;
   position: absolute;
   right: 10px;
-  top: 20px;
+  top: 25px;
   margin-right: 10px;
   margin-top: 10px;
 }
@@ -805,7 +808,7 @@ a.hoverline:hover {
     line-height: 24px;
     position: relative;
     left: 10px;
-    top: 0;
+    top: 2px;
   }
   #experience span.card-title {
     text-align: center;
