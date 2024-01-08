@@ -451,11 +451,10 @@ h3 {
 
 .card .role {
   font-size: 1.25rem;
-  position: absolute;
-  left: 20px;
-  top: 35px;
   font-weight: 600;
-  color: #eaeef2
+  color: #eaeef2;
+  padding-top: 20px;
+  padding-left: 10px;
 }
 
 .card li a {
@@ -540,8 +539,14 @@ h3 {
 .card .card-content .card-title {
   /* line-height: 2.5rem; */
   font-weight: 500;
-  color: #eaeef2;
+  color: #d1e8dd;
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
 }
+
 
 .card i.right {
   margin-left: 3px;
@@ -604,8 +609,9 @@ a.hoverline:hover {
 }
 
 #experience .card-content .row {
-  border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
+  background-color: #815c20;
+  border-radius: 8px;
 }
 
 .card.large .card-image {
@@ -796,6 +802,9 @@ a.hoverline:hover {
   .card .card-content .card-title {
     font-size: 20px;
     line-height: 24px;
+    position: relative;
+    left: 10px;
+    top: 0;
   }
   #experience span.card-title {
     text-align: center;
