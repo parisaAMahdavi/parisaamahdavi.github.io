@@ -793,7 +793,7 @@ a.hoverline:hover {
     /* top: 64px; */
   }
   section#intro {
-    margin-bottom: -64px;
+    /* margin-bottom: -64px; */
     height: 100vh
   }
   .card .role {
