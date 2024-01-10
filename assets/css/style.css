@@ -382,10 +382,10 @@ h3 {
   background-blend-mode: color-burn;
 }
 
-#about.section .row.col{
+#about.section .row .col{
   float: none;
 }
-#about.section .img{
+#about.section img{
   max-width: 100%;
   max-height: 100%;
   opacity: 70%;
