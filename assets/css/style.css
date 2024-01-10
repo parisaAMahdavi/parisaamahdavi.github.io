@@ -56,12 +56,12 @@
 }
 
 .github {
-  color: #8c5600d6;
+  color: #efefef;
   background-color: transparent;
 }
 
 .linkedin {
-  color: #8c5600d6;
+  color: #efefef;
   background-color: transparent;
 }
 
@@ -91,8 +91,8 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #8c5600d6;
-  color: #d1e8dd;
+  background: linear-gradient(-180deg, #ddac58 0%, rgb(124, 106, 10) 96%);
+  color: #ffffff;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
@@ -108,8 +108,8 @@
 .contactme {
   position: relative;
   padding: 11px 35px;
-  background: #8c5600d6;
-  color: #d1e8dd;
+  background: linear-gradient(-180deg, #ddac58 0%, rgb(124, 106, 10) 96%);
+  color: #ffffff;
   font-weight: 300 !important;
   font-size: 15px;
   letter-spacing: 1px;
@@ -127,7 +127,7 @@
 /* body-color */
 
 body {
-  color: #d1e8dd;
+  color: #fcfefd;
   font-size: 18px;
 }
 .color-italic-text {
@@ -312,7 +312,7 @@ h3 {
   margin-top: 0;
   padding: 30px 40px;
   font-size: 1rem;
-  color: #815b1e !important;
+  color: #bb9f57 !important;
   padding-bottom: 0;
 }
 
@@ -336,7 +336,7 @@ h3 {
 #intro.section {
   background-color: #000;
   position: relative;
-  background-image: url('/assets/img/ml.jpg');
+  background-image: linear-gradient(rgba(9, 58, 86, 0.7), rgba(9, 58, 86, 0.7)),url('/assets/img/ml.jpg');
   opacity: 90%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -358,7 +358,7 @@ h3 {
 } */
 
 #intro.section .container *:not(span) {
-  font-weight: 100;
+  font-weight: 300;
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
@@ -376,7 +376,7 @@ h3 {
 #about.section {
   background: #192331;
   position: relative;
-  background-image: url('/assets/img/bg6.jpg');
+  background-image: linear-gradient(rgba(220, 227, 231, 0.05), rgba(93, 102, 107, 0.73));
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
