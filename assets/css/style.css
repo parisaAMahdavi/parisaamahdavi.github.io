@@ -100,11 +100,6 @@
   font-weight: 300 !important;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
-
 .contactme {
   position: relative;
   padding: 11px 35px;
@@ -139,32 +134,9 @@ body {
   flex: max-content;
 }
 
-
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
-
 a {
   color: #004d40;
 }
-
-/* main blockqoute */
-
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -397,8 +369,7 @@ h3 {
 #projects.section {
   background:rgba(9, 58, 86, 0.84);
   position: relative;
-  /* background-image: url('/assets/img/bg4.avif'); */
-  background-size: cover;
+  background-image: linear-gradient(rgba(220, 227, 231, 0.05), rgba(93, 102, 107, 0.73));  background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
 }
@@ -412,6 +383,7 @@ h3 {
 }
 #education.section {
   background: rgba(9, 58, 86, 0.84);
+  background-image: linear-gradient(rgba(220, 227, 231, 0.05), rgba(93, 102, 107, 0.73));
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
@@ -427,6 +399,7 @@ h3 {
 
 #contact.section {
   background: rgba(9, 58, 86, 0.84);
+  background-image: linear-gradient(rgba(220, 227, 231, 0.05), rgba(93, 102, 107, 0.73));
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
@@ -534,10 +507,10 @@ h3 {
   color: #fdfdfdba;
 }
 
-#experience.card .care-reveal{
+#experience .card .care-reveal{
   background-color: #203744 !important;
 }
-#experience.card .card-reveal .card-title{
+#experience .card .card-reveal .card-title{
   font-size: 15px;
 }
 .card-action span {
