@@ -383,7 +383,7 @@ h3 {
 }
 
 #experience.section {
-  background: #19222ff0;
+  background: linear-gradient(rgba(9, 58, 86, 0), rgba(9, 58, 86, 0)), url("https://hosting.renderforestsites.com/5699226/1065361/media/9e2e59aeb78532d75c85b7a83e5b27e9.jpg");
   position: relative;
   background-image: url('/assets/img/bg4.avif');
   background-size: cover;
@@ -392,7 +392,7 @@ h3 {
 }
 
 #experience.section .card {
-  background-color: #192331 !important;
+  background-color: #203744 !important;
 }
 
 #projects.section {
@@ -450,8 +450,8 @@ h3 {
 }
 
 .card .role {
-  font-size: 22px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 400;
   color: #eaeef2;
   padding-top: 20px;
   padding-left: 10px;
@@ -475,8 +475,8 @@ h3 {
 .card .card-content p {
   padding: 5px 0 0;
   margin-bottom: 20px;
-  color: #815c20;
-  font-weight: 700;
+  color: #f1f1f1c4;
+  font-weight: 400;
 }
 
 .card h5 {
@@ -523,6 +523,10 @@ h3 {
   max-height: 60px;
 }
 
+#experience .btn{
+  background: linear-gradient(-180deg, #ddac58 0%, rgb(124, 106, 10) 96%);
+}
+
 .card-action span {
   font-size: 85%;
   color: #666;
@@ -557,6 +561,7 @@ h3 {
   top: 25px;
   margin-right: 10px;
   margin-top: 10px;
+  font-size: 15px;
 }
 
 
