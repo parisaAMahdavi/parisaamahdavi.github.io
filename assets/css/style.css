@@ -395,34 +395,38 @@ h3 {
 }
 
 #projects.section {
-  background: #192331;
+  background:rgba(9, 58, 86, 0.84);
   position: relative;
-  background-image: url('/assets/img/bg4.avif');
+  /* background-image: url('/assets/img/bg4.avif'); */
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
 }
 
 #skills.section {
-  background: #19222ff0;
+  background: linear-gradient(rgba(9, 58, 86, 0), rgba(9, 58, 86, 0)), url("https://hosting.renderforestsites.com/5699226/1065361/media/9e2e59aeb78532d75c85b7a83e5b27e9.jpg");
   position: relative;
-  background-image: url('/assets/img/bg4.avif');
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
 }
 #education.section {
-  background: #192331;
+  background: rgba(9, 58, 86, 0.84);
   position: relative;
-  background-image: url('/assets/img/bg4.avif');
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
 }
 #researsh.section {
-  background: #19222ff0;
+  background: linear-gradient(rgba(9, 58, 86, 0), rgba(9, 58, 86, 0)), url("https://hosting.renderforestsites.com/5699226/1065361/media/9e2e59aeb78532d75c85b7a83e5b27e9.jpg");
   position: relative;
-  background-image: url('/assets/img/bg4.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn;
+}
+
+#contact.section {
+  background: rgba(9, 58, 86, 0.84);
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
@@ -530,6 +534,12 @@ h3 {
   color: #fdfdfdba;
 }
 
+#experience.card .care-reveal{
+  background-color: #203744 !important;
+}
+#experience.card .card-reveal .card-title{
+  font-size: 15px;
+}
 .card-action span {
   font-size: 85%;
   color: #666;
