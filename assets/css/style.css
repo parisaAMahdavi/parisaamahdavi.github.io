@@ -509,7 +509,7 @@ h3 {
 }
 
 #experience .card .card-reveal{
-  background-color: #203744 !important;
+  background-color: #203744;
 }
 #experience .card .card-reveal .card-title{
   font-size: 15px;
