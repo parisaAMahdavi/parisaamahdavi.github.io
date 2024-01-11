@@ -385,7 +385,6 @@ h3 {
 #experience.section {
   background: linear-gradient(rgba(9, 58, 86, 0), rgba(9, 58, 86, 0)), url("https://hosting.renderforestsites.com/5699226/1065361/media/9e2e59aeb78532d75c85b7a83e5b27e9.jpg");
   position: relative;
-  background-image: url('/assets/img/bg4.avif');
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: color-burn;
@@ -525,6 +524,10 @@ h3 {
 
 #experience .btn{
   background: linear-gradient(-180deg, #ddac58 0%, rgb(124, 106, 10) 96%);
+  border-radius: 8px;
+  text-transform: capitalize;
+  font-size: 0.8rem;
+  color: #fdfdfdba;
 }
 
 .card-action span {
@@ -628,7 +631,6 @@ a.hoverline:hover {
 
 #experience .card-content .row {
   padding-bottom: 10px;
-  background-color: #815c20;
   border-radius: 8px;
 }
 
