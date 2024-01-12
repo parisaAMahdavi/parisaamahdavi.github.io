@@ -130,6 +130,14 @@ body {
   font-style: italic;
   font-size: 0.7rem;
 }
+
+#education.color-italic-text {
+  color: rgba(140, 128, 128, 0.55);
+  font-style: italic;
+  font-size: 1rem;
+  padding-left: 54px;
+}
+
 .col-equal-height{
   display: flex;
   flex: max-content;
