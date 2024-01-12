@@ -126,8 +126,9 @@ body {
   font-size: 18px;
 }
 .color-italic-text {
-  color: rgb(140, 128, 128);
+  color: rgba(140, 128, 128, 0.55);
   font-style: italic;
+  font-size: 0.7rem;
 }
 .col-equal-height{
   display: flex;
@@ -362,10 +363,6 @@ h3 {
   background-blend-mode: color-burn;
 }
 
-#experience.section .card {
-  background-color: #203744 !important;
-}
-
 #projects.section {
   background:rgba(9, 58, 86, 0.84);
   position: relative;
@@ -424,6 +421,7 @@ h3 {
 .card {
   margin-bottom: 60px;
   border-radius: 10px;
+  background-color: #203744 !important;
 }
 
 .card .role {
@@ -599,8 +597,11 @@ a.hoverline:hover {
 
 #skills h4 {
   border-bottom: 1px solid #ddd;
-  margin-bottom: 30px;
-  padding-bottom: 20px;
+  margin-bottom: 0;
+  color: #cbb00e !important;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 0;
 }
 
 #skills .col img.responsive-img {
