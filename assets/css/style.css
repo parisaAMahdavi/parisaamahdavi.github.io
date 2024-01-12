@@ -131,7 +131,7 @@ body {
   font-size: 0.7rem;
 }
 
-#education.color-italic-text {
+#education .color-italic-text {
   color: rgba(140, 128, 128, 0.55);
   font-style: italic;
   font-size: 1rem;
@@ -512,6 +512,10 @@ h3 {
   text-transform: capitalize;
   font-size: 0.8rem;
   color: #fdfdfdba;
+}
+
+#researsh ul li{
+  list-style-type: circle;
 }
 
 .card .card-reveal {
