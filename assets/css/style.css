@@ -565,7 +565,7 @@ h3 {
 }
 .card.medium{
   height: 435px;
-  background-color: #536a8c !important;
+  background-color: #203744 !important
 }
 
 .border-card-action {
@@ -637,6 +637,7 @@ a.hoverline:hover {
 
 .card-action a.btn-floating {
   margin-bottom: 0;
+  background-color: transparent;
 }
 
 #contact a:not(.btn-floating) {
