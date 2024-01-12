@@ -516,6 +516,19 @@ h3 {
   color: #cfb20d;
   font-weight: 300;
 }
+
+#experience .card .card-content .card-title {
+  /* line-height: 2.5rem; */
+  font-weight: 500;
+  color: #eaeef2;
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
 .card-action span {
   font-size: 85%;
   color: #666;
@@ -541,19 +554,6 @@ h3 {
   font-weight: 100;
 }
 
-.card .card-content .card-title {
-  /* line-height: 2.5rem; */
-  font-weight: 500;
-  color: #eaeef2;
-  position: absolute;
-  right: 10px;
-  top: 25px;
-  margin-right: 10px;
-  margin-top: 10px;
-  font-size: 15px;
-}
-
-
 .card i.right {
   margin-left: 3px;
 }
@@ -563,6 +563,7 @@ h3 {
 }
 .card.medium{
   height: 435px;
+  background-color: #536a8c !important;
 }
 
 .border-card-action {
