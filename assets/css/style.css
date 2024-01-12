@@ -508,10 +508,10 @@ h3 {
   color: #fdfdfdba;
 }
 
-#experience .card .card-reveal{
+.card .card-reveal{
   background-color: #203744;
 }
-#experience .card .card-reveal .card-title{
+.card .card-reveal .card-title{
   font-size: 15px;
   color: #cfb20d;
   font-weight: 300;
@@ -550,8 +550,9 @@ h3 {
 }
 
 .card .card-title {
-  font-size: 24px;
-  font-weight: 100;
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #cbb00e;
 }
 
 .card i.right {
@@ -560,6 +561,7 @@ h3 {
 
 .card.medium .card-content{
   height: 182px;
+  font-size: 0.8rem;
 }
 .card.medium{
   height: 435px;
@@ -709,7 +711,7 @@ a.hoverline:hover {
 
 @media (max-width: 1360px) {
   .card ul li {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 200%;
     margin-left: 20px;
     margin-bottom: 10px;
