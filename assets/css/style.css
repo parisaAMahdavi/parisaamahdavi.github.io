@@ -595,13 +595,14 @@ a.hoverline:hover {
   height: 360px;
 }
 
-#skills h4 {
+h4 {
   border-bottom: 1px solid #ddd;
   margin-bottom: 0;
   color: #cbb00e !important;
   font-size: 1rem;
   font-weight: 500;
   margin-top: 0;
+  line-height: 2rem;
 }
 
 #skills .col img.responsive-img {
