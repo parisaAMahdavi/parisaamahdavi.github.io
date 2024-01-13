@@ -723,6 +723,9 @@ h4 {
     justify-content: center;
     align-items: center;
   }
+  h2 {
+    font-size: 26px;
+  }
 }
 
 @media (max-width: 1360px) {
@@ -735,6 +738,9 @@ h4 {
   #intro.section{
     height: 100vh
   }
+  h2 {
+    font-size: 26px;
+  }
 
 }
 
@@ -744,6 +750,9 @@ h4 {
   }
   #intro.section{
     height: 100vh
+  }
+  h2 {
+    font-size: 26px;
   }
 }
 
@@ -813,6 +822,9 @@ h4 {
     right: initial;
     top: initial;
   }
+  h2 {
+    font-size: 26px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -832,7 +844,6 @@ h4 {
     top: 2px;
   }
   #experience span.card-title {
-    /* text-align: center; */
     display: block;
   }
   #experience span.card-title a {
@@ -855,6 +866,6 @@ h4 {
   }
   #intro.section {
     background-position-x: 30%;
-    height: 70vh
+    height: 70vh;
   }
 }
