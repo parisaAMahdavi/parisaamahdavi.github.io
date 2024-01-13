@@ -749,6 +749,7 @@ h4 {
     line-height: 150%;
   }
   #intro.section {
+    background-position-x: 30%;
     height: 70vh;
   }
   h2 {
