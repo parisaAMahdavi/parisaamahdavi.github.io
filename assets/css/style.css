@@ -823,7 +823,7 @@ h4 {
   }
   /* #intro.section .container *:not(span) {
     /* padding: 0; */
-  } */
+  /* } */
   .card .card-content .card-title {
     font-size: 20px;
     line-height: 24px;
@@ -832,7 +832,7 @@ h4 {
     top: 2px;
   }
   #experience span.card-title {
-    text-align: center;
+    /* text-align: center; */
     display: block;
   }
   #experience span.card-title a {
@@ -855,6 +855,6 @@ h4 {
   }
   #intro.section {
     background-position-x: 30%;
-    height: 100vh
+    height: 70vh
   }
 }
