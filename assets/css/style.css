@@ -480,10 +480,6 @@ h3 {
   /* text-transform: uppercase; */
   padding-right: 5px;
 }
-.lowercase{
-  text-transform: none, !important;
-  margin-left: 10px;
-}
 
 #about .row .col{
   float: none;
