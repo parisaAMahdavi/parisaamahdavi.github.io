@@ -481,7 +481,7 @@ h3 {
   padding-right: 5px;
 }
 .lowercase{
-  text-transform: none;
+  text-transform: none, !important;
   margin-left: 10px;
 }
 
@@ -534,7 +534,7 @@ h3 {
   color: #eaeef2;
   position: absolute;
   right: 10px;
-  top: 25px;
+  top: 29px;
   margin-right: 10px;
   margin-top: 10px;
   font-size: 15px;
@@ -837,7 +837,7 @@ h4 {
     font-size: 20px;
     line-height: 24px;
     position: relative;
-    left: 10px;
+    /* left: 10px; */
     top: 2px;
   }
   #experience span.card-title {
