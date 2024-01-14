@@ -515,6 +515,11 @@ h3 {
   color: #fdfdfdba;
 }
 
+#education .card a{
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+
 #researsh ul li{
   list-style-type: circle;
 }
